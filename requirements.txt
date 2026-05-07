@@ -1,0 +1,13 @@
+streamlit
+pandas
+openpyxl
+sentence-transformers
+chromadb
+openai
+langchain
+langchain-text-splitters
+python-dotenv
+torch
+torchvision
+transformers
+rank_bm25

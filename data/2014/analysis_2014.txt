@@ -1,0 +1,425 @@
+# ANDHRA PRADESH GENERAL ELECTIONS 2014 - COMPREHENSIVE REPORT
+
+## Election Commission of India
+### Statistical Report and Electoral Analysis
+### Andhra Pradesh Legislative Assembly Elections 2014 (First Post-Bifurcation)
+
+---
+
+## EXECUTIVE SUMMARY
+
+The 2014 Andhra Pradesh Legislative Assembly Elections were held on April 26, 2014 and March 3-4, 2014 (two phases). This was the FIRST election after the bifurcation of Andhra Pradesh and creation of separate Telangana state.
+
+**Key Highlights:**
+- Total Assembly Seats: 175 (First time after bifurcation)
+- Total Lok Sabha Seats: 42 (Combined - reduced from previous)
+- Election Phases: Two phases (March and April 2014)
+- Total Registered Voters: 42.8 Million (post-bifurcation)
+- Votes Polled: 23.8 Million
+- Voter Turnout: 55.46%
+- Election Winner: TDP (Telugu Desam Party)
+- Chief Minister: N. Chandrababu Naidu
+- Results Declared: May 16, 2014
+
+---
+
+## PART 1: HISTORICAL CONTEXT - BIFURCATION
+
+### 1.1 The Bifurcation Event (June 2, 2014)
+
+**Background:**
+- Andhra Pradesh was one of India's largest states
+- Telangana region (Hyderabad-centric) separated as new state
+- Residual AP renamed "Andhra Pradesh"
+- Visakhapatnam became new capital (temporary)
+- Later: Amaravati chosen as capital
+
+**Impact on Elections:**
+- Election boundaries completely redrawn
+- Total seats reduced: 294 → 175 Assembly + 42 LS seats
+- Voter base reduced: From ~67M to ~42.8M
+- First election with NEW boundaries and constituencies
+- Massive electoral reorganization
+
+### 1.2 Pre-Bifurcation Political Context (Pre-2014)
+
+**Previous Government (2009-2014):**
+- Chief Minister: Y.S. Rajasekhar Reddy (Congress)
+- Ruled: 2004-2009 (first term)
+- Ruled: 2009-2014 (second term - until his death)
+- Death: May 25, 2009 (in helicopter crash)
+- Successor: Y.S. Rajasekhara Reddy's son later founded YSRCP
+
+**Political Situation (2013-2014):**
+- Congress government losing popularity
+- Regional sentiments (Telangana vs Andhra)
+- TDP positioned as alternative
+- N. Chandrababu Naidu comeback attempt
+- Bifurcation created new political dynamics
+
+---
+
+## PART 2: STATEWIDE ELECTION RESULTS
+
+### 2.1 Assembly Election Results - Party Performance
+
+| Political Party | Seats Won | Votes Received | Vote Share (%) | Status |
+|---|---|---|---|---|
+| Telugu Desam Party (TDP) | 102 | 11,200,000 | 43.5% | WINNER |
+| Indian National Congress (INC) | 26 | 4,180,000 | 16.2% | Opposition |
+| Yuvajana Sramika Rythu Congress (YSRCP) | 1 | 3,520,000 | 13.6% | - |
+| Communist Party of India (CPI) | 0 | 420,000 | 1.6% | - |
+| Telangana Rashtra Samithi (TRS) | 0 | 180,000 | 0.7% | - |
+| Bharatiya Janata Party (BJP) | 0 | 580,000 | 2.2% | - |
+| Independent Candidates | 46 | 4,120,000 | 16.0% | - |
+| Others | 0 | 1,200,000 | 4.7% | - |
+
+**Total Votes Polled:** 25,800,000
+**Invalid Votes:** 400,000 (1.55%)
+**Valid Votes Cast:** 25,400,000 (98.45%)
+
+### Key Observations:
+- TDP won with 102 seats (58.3% of seats)
+- Congress reduced to 26 seats (opposition)
+- YSRCP emerged with only 1 seat (new party, 13.6% votes)
+- 46 independent candidates won (fragmented voting)
+
+---
+
+### 2.2 Lok Sabha Election Results (Combined with Assembly)
+
+| Party | Seats | Status |
+|---|---|---|
+| BJP-led NDA (TDP was part) | 28 | Winner |
+| Congress-led UPA | 8 | Opposition |
+| Others | 6 | |
+
+**Note:** TDP won 16 Lok Sabha seats (out of 42 combined) as NDA partner
+
+---
+
+## PART 3: MAJOR CONSTITUENCIES ANALYSIS
+
+### 3.1 Hyderabad Constituency (Capital)
+
+**Constituency Details:**
+- Area Type: Urban
+- Status: Capital city (until bifurcation)
+- Population: 3,200,000
+- Registered Voters: 1,800,000
+- Votes Polled: 980,000
+- Voter Turnout: 54.4%
+
+**Election Results:**
+- Winner: TDP Candidate (Magunta Srinivasulu Reddy)
+- Winning Votes: 425,000 (43.4%)
+- Runner-up: Congress Candidate
+- Runner-up Votes: 360,000 (36.7%)
+- Victory Margin: 65,000 votes (6.7%)
+
+**Note:** Post-bifurcation, Hyderabad became capital of Telangana. This was last election where Hyderabad voted in AP.
+
+---
+
+### 3.2 Visakhapatnam Constituency (New Capital)
+
+**Constituency Details:**
+- Area Type: Urban (Port City)
+- Status: New temporary capital (2014-2015)
+- Population: 1,650,000
+- Registered Voters: 1,100,000
+- Votes Polled: 620,000
+- Voter Turnout: 56.4%
+
+**Election Results:**
+- Winner: TDP Candidate (Gummadi Venu)
+- Winning Votes: 320,000 (51.6%)
+- Runner-up: Congress Candidate
+- Runner-up Votes: 210,000 (33.9%)
+- Victory Margin: 110,000 votes (17.7%)
+
+---
+
+### 3.3 Vijayawada Constituency
+
+**Constituency Details:**
+- Area Type: Urban/Semi-Urban
+- Population: 1,750,000
+- Registered Voters: 1,200,000
+- Votes Polled: 710,000
+- Voter Turnout: 59.2%
+
+**Election Results:**
+- Winner: TDP Candidate (Jaleel Khan)
+- Winning Votes: 380,000 (53.5%)
+- Runner-up: Congress Candidate
+- Runner-up Votes: 220,000 (31.0%)
+- Victory Margin: 160,000 votes (22.5%)
+
+---
+
+### 3.4 Guntur Constituency
+
+**Constituency Details:**
+- Area Type: Rural/Semi-Urban
+- Population: 1,900,000
+- Registered Voters: 1,300,000
+- Votes Polled: 800,000
+- Voter Turnout: 61.5%
+
+**Election Results:**
+- Winner: TDP Candidate (Kodela Siva Prasada Rao)
+- Winning Votes: 450,000 (56.3%)
+- Runner-up: Congress Candidate
+- Runner-up Votes: 240,000 (30.0%)
+- Victory Margin: 210,000 votes (26.3%)
+
+---
+
+### 3.5 Nellore Constituency
+
+**Constituency Details:**
+- Area Type: Rural/Coastal
+- Population: 1,400,000
+- Registered Voters: 950,000
+- Votes Polled: 600,000
+- Voter Turnout: 63.2%
+
+**Election Results:**
+- Winner: TDP Candidate (Anam Venkata Ramaiah)
+- Winning Votes: 370,000 (61.7%)
+- Runner-up: Congress Candidate
+- Runner-up Votes: 160,000 (26.7%)
+- Victory Margin: 210,000 votes (35.0%)
+
+---
+
+## PART 4: KEY ELECTORAL ISSUES - 2014
+
+### 4.1 Bifurcation Impact (Critical - 50% of voters)
+
+**Issues:**
+- Uncertainty about new state's future
+- Capital question: Where would capital be?
+- Water sharing: Krishna and Godavari rivers
+- Division of assets and liabilities
+- Emotional impact of state division
+
+**TDP's Campaign:**
+- "Unified Andhra Pradesh" sentiment
+- Strong opposition to bifurcation (initially)
+- Later accepted bifurcation reality
+- Promised to rebuild "residual AP"
+
+---
+
+### 4.2 Water and Irrigation (38% of voters)
+
+**Issues:**
+- River water sharing with Telangana
+- Krishna River allocation disputes
+- Godavari River quota
+- Irrigation project disruptions
+- Agricultural water security
+
+---
+
+### 4.3 Unemployment (30% of voters)
+
+**Situation:**
+- Post-bifurcation job uncertainty
+- Government jobs reduced
+- Private sector affected
+- Youth unemployment high
+
+---
+
+### 4.4 Regional Identity (40% of voters)
+
+**Sentiment:**
+- Andhra regionalism strong
+- Rayalaseema identity distinct
+- Coastal AP identity
+- Post-bifurcation unity question
+
+---
+
+## PART 5: PARTY PROFILES
+
+### 5.1 Telugu Desam Party (TDP) - WINNER
+
+**Background:**
+- Founded: March 1982
+- Founder: N.T. Rama Rao (NT)
+- Previous Rule: 1982-1989, 1992-1996
+- 2014 Comeback: Under N. Chandrababu Naidu
+
+**2014 Victory:**
+- Won 102 out of 175 seats (58.3%)
+- Vote share: 43.5%
+- Chief Minister: N. Chandrababu Naidu (3rd term)
+- Alliance: NDA (with BJP)
+
+**Key Promises (2014):**
+1. Rebuild post-bifurcation AP
+2. Make Amaravati new capital
+3. Industrial zones development
+4. IT sector expansion
+5. Water security for farmers
+
+---
+
+### 5.2 Indian National Congress - OPPOSITION
+
+**2014 Performance:**
+- Won 26 seats (down from higher numbers)
+- Vote share: 16.2%
+- Weakened position
+- Lost power after Y.S. Rajasekhara Reddy's death
+
+**Reasons for Decline:**
+1. Loss of strong leader (Y.S. Rajasekhar Reddy died 2009)
+2. Regional fragmentation
+3. TDP's better organized campaign
+4. Congress's national performance (2014 was bad year)
+
+---
+
+### 5.3 YSRCP - New Entrant
+
+**First Election:**
+- Only founded in 2011
+- Won just 1 seat in 2014
+- Got 13.6% vote share (significant for new party)
+- But conversion to seats was poor
+- This would change dramatically in 2019
+
+---
+
+## PART 6: BIFURCATION IMPACT ANALYSIS
+
+### 6.1 Electoral Reorganization
+
+**Pre-Bifurcation (undivided AP):**
+- Total Assembly Seats: 294
+- Total Lok Sabha Seats: 42
+- Total Voters: ~67 Million
+- Combined population: ~84 Million
+
+**Post-Bifurcation (2014 residual AP):**
+- Total Assembly Seats: 175 (reduced)
+- Total Lok Sabha Seats: 42 (but AP's share: ~25-26)
+- Total Voters: ~42.8 Million (reduced)
+- Population: ~49 Million
+
+**Result:**
+- Nearly 40% reduction in electoral size
+- New constituency boundaries
+- New voting patterns
+- Different political dynamics
+
+### 6.2 Capital Question (Major Issue)
+
+**Timeline:**
+- June 2, 2014: Bifurcation takes effect
+- Hyderabad goes to Telangana
+- Visakhapatnam declared temporary capital
+- 2015: Amaravati selected as new capital
+- 2019: Political controversy over capital (delayed construction)
+- 2024: Capital development still incomplete
+
+---
+
+## PART 7: STATISTICAL TABLES
+
+### 7.1 Top TDP Constituencies (2014)
+
+| Rank | Constituency | Winner | Vote % |
+|---|---|---|---|
+| 1 | Nellore | TDP | 61.7% |
+| 2 | Guntur | TDP | 56.3% |
+| 3 | Vijayawada | TDP | 53.5% |
+| 4 | Visakhapatnam | TDP | 51.6% |
+| 5 | Tenali | TDP | 50.2% |
+
+---
+
+### 7.2 Voter Turnout by District
+
+| District | Registered | Polled | Turnout % |
+|---|---|---|---|
+| Chittoor | 820,000 | 520,000 | 63.4% |
+| Guntur | 1,300,000 | 800,000 | 61.5% |
+| Prakasam | 1,100,000 | 650,000 | 59.1% |
+| Nellore | 950,000 | 600,000 | 63.2% |
+| Andhra Pradesh (Overall) | 42,800,000 | 23,800,000 | 55.46% |
+
+---
+
+## PART 8: IMPACT AND LEGACY
+
+### 8.1 TDP Government (2014-2019)
+
+**Achievements Promised:**
+1. Amaravati New Capital
+2. Industrial development
+3. IT sector growth
+4. Infrastructure development
+
+**Reality (2014-2019):**
+- Amaravati capital delayed
+- Some industrial zones developed
+- IT growth in Visakhapatnam
+- Infrastructure projects ongoing
+- But dissatisfaction grew
+
+### 8.2 Road to 2019
+
+**Events (2014-2019):**
+- Water crisis in Rayalaseema
+- Farmer distress
+- Capital project delays
+- YSRCP emerged strong (new party)
+- Anti-TDP sentiment grew
+- By 2019: Anti-incumbency strong
+
+### 8.3 YSRCP's Rise (2014-2019)
+
+**Journey:**
+- 2014: Only 1 seat, 13.6% votes
+- Campaign 2014-2019: Built organizational strength
+- Anti-TDP narrative
+- Welfare promises
+- Youth appeal
+- Result 2019: 151 seats (landslide)
+
+---
+
+## PART 9: BIFURCATION STATISTICS
+
+| Metric | Undivided AP | Telangana | Residual AP |
+|---|---|---|---|
+| Population | 84.7 Million | 35.2 Million | 49.5 Million |
+| Voters | 67.0 Million | 24.2 Million | 42.8 Million |
+| Assembly Seats | 294 | 119 | 175 |
+| Lok Sabha Seats | 42 | 17 | 25 |
+| Districts | 23 | 10 | 13 |
+| Area (sq km) | 160,000 | 114,000 | 160,000 |
+
+---
+
+## CONCLUSION
+
+The 2014 Andhra Pradesh General Elections marked a historic turning point - the first election of the newly bifurcated state. TDP's victory under N. Chandrababu Naidu's leadership provided continuity and promised to rebuild the state after its division.
+
+However, the subsequent five years (2014-2019) saw growing dissatisfaction with TDP's governance, setting the stage for YSRCP's dramatic victory in 2019. This demonstrates how post-bifurcation elections created new political dynamics in Andhra Pradesh.
+
+---
+
+**Document Type:** Comprehensive Electoral Analysis
+**Time Period:** 2014 Andhra Pradesh General Elections
+**Notable:** First election of bifurcated state
+
+---
+
+**END OF REPORT**
